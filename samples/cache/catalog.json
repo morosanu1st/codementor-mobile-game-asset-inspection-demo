@@ -1,0 +1,18 @@
+{
+  "m_LocatorId": "AddressablesMainContentCatalog",
+  "m_ProviderIds": [
+    "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+    "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+  ],
+  "m_InternalIdPrefixes": [
+    "https://d111111abcdef8.cloudfront.net/mygame/android/1.4.2/bundles",
+    "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android"
+  ],
+  "m_InternalIds": [
+    "0#/characters_assets_all_3f2a9c1d.bundle",
+    "0#/ui_atlas_assets_all_9b8e7d6c.bundle",
+    "1#/defaultlocalgroup_assets_all_1a2b3c4d.bundle",
+    "{RemoteLoadPath}/levels_assets_all_5e6f7a8b.bundle",
+    "Assets/Art/Characters/Hero.prefab"
+  ]
+}

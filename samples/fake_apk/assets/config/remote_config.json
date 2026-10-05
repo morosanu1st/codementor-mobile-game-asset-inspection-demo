@@ -1,0 +1,6 @@
+{
+  "api": "https://api.example-game.com/v2/session",
+  "assetBaseUrl": "https://d111111abcdef8.cloudfront.net/mygame/android/1.4.2",
+  "catalog": "https://d111111abcdef8.cloudfront.net/mygame/android/1.4.2/catalog_2024.09.01.json",
+  "patchManifest": "https://cdn.example-game.com/patch/manifest_142.json"
+}

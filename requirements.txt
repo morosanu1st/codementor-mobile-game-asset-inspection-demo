@@ -1,0 +1,6 @@
+# Core toolkit is stdlib-only (Python 3.9+). These are for tests and optional tools.
+pytest>=7
+# Optional: dynamic capture addon (mitm_asset_logger.py)
+# mitmproxy>=10
+# Optional: open Unity AssetBundles (unity_dump.py)
+# UnityPy>=1.10

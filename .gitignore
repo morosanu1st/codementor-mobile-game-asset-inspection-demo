@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+captured_assets/
+out/
+exported/
+# never commit real game files
+*.apk
+!samples/fake_game.apk
+*.ipa
+*.obb
+*.xapk
